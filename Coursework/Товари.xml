@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfUser xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <User>
+    <Name>Весела корівка</Name>
+    <Product>Молочні продукти</Product>
+    <Save>2024-05-03T21:03:55</Save>
+    <Creator>Корова</Creator>
+    <Count>4</Count>
+    <Post>2024-05-05T21:03:55.850073+03:00</Post>
+  </User>
+  <User>
+    <Name>Картопля</Name>
+    <Product>Овочі</Product>
+    <Save>2024-05-30T21:03:55</Save>
+    <Creator>Завод</Creator>
+    <Count>124</Count>
+    <Post>2024-05-05T21:03:55.850073+03:00</Post>
+  </User>
+  <User>
+    <Name>Курине філе</Name>
+    <Product>М'ясо</Product>
+    <Save>2024-05-18T21:03:55</Save>
+    <Creator>Антон</Creator>
+    <Count>42</Count>
+    <Post>2024-05-05T21:03:55.850073+03:00</Post>
+  </User>
+  <User>
+    <Name>Чорний чай</Name>
+    <Product>Чай</Product>
+    <Save>2024-05-22T21:03:55</Save>
+    <Creator>Китай</Creator>
+    <Count>42</Count>
+    <Post>2024-05-05T21:03:55.850073+03:00</Post>
+  </User>
+  <User>
+    <Name>Яблуко</Name>
+    <Product>Фрукти</Product>
+    <Save>2024-05-18T21:03:55</Save>
+    <Creator>Дерево</Creator>
+    <Count>67</Count>
+    <Post>2024-05-05T21:03:55.850073+03:00</Post>
+  </User>
+</ArrayOfUser>
